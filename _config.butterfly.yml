@@ -517,9 +517,9 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo: jlower/blog
-  repo_id: R_kgDOLCWQTg
-  category_id: DIC_kwDOLCWQTs4ChN9A
+  repo: anyueservice/blog
+  repo_id: R_kgDONo0zVA
+  category_id: DIC_kwDONo0zVM4Cl7Td
   theme:
     light: light_high_contrast # light
     dark: dark_high_contrast # dark
