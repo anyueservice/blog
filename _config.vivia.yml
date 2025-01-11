@@ -23,15 +23,15 @@ hue: 180                          # 主题色调 (例如：红: 0，橙: 60，�
 
 # 个人信息
 avatar: /imgs/avatar1.jpg                     # 头像图片文件路径，相对于 /source 目录
-author: Lowo
+author: Ann
 subtitle: This is the subtitle
 links:        # 访问 https://fontawesome.com/search 获取图标代码
   - name: GitHub
     icon: fa-brands fa-github
-    url: https://github.com/jlower
+    url: https://github.com/anyueservice
   - name: Twitter
     icon: fa-brands fa-twitter      
-    url: https://twitter.com/creampunch_kiss
+    url: https://twitter.com/ANNLIUBEST
   - name: Steam
     icon: fa-brands fa-steam
     url: https://store.steampowered.com

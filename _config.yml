@@ -1,8 +1,8 @@
-title: Lowo's blog
+title: Ann's blog
 subtitle: ''
 description: 'blog'
 keywords: null
-author: Lowo
+author: Ann
 language: zh-CN
 timezone: 'Asia/Hong_Kong'
 
@@ -12,7 +12,7 @@ timezone: 'Asia/Hong_Kong'
 # 在储存库中前往 Settings > Pages > Source，并将 Source 改为 GitHub Actions。
 # Commit 并 push 到默认分支上。
 # 部署完成后，前往 https://<你的 GitHub 用户名>.github.io/<repository 的名字> 查看网站。
-url: https://blog.lowoneko.eu.org # http://jlower.github.io/blog
+url: https://ann.lowoneko.eu.org # https://anyueservice.github.io/blog
 
 # 现在我的设置是要求在同一天内不能有同样标题的文章，否则生成的链接会重复，和默认设置 permalink: ':year/:month/:day/:title/' 一样 (这样要求每篇文章必须要填 date: 创建日期)
 # permalink: ':year/:month/:day/:title/'
@@ -105,7 +105,7 @@ search:
   content: true
   format: html
 
-email: 870050851@qq.com
+email: 50479771@qq.com
 
 mathjax:
   tags: none # or 'ams' or 'all'
