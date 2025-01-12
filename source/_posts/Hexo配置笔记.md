@@ -1,7 +1,10 @@
 ---
 title: Hexo配置笔记
 date: 2024-01-05 04:00:00
-categories: 笔记
+categories: [笔记]
+keywords: [Hexo配置,Hexo,配置]
+tag: []
+description:
 ---
 
 ## Hexo跳转自己的文章
