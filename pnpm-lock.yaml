@@ -60,8 +60,8 @@ importers:
         specifier: ^3.0.0
         version: 3.0.0
       hexo-theme-butterfly:
-        specifier: ^5.3.0
-        version: 5.3.0
+        specifier: ^5.3.4
+        version: 5.3.4
       hexo-theme-landscape:
         specifier: ^1.0.0
         version: 1.0.0
@@ -914,8 +914,8 @@ packages:
     resolution: {integrity: sha512-Zw19uxRIT/3VCvMQytG6HfBJc/IvfFJYui8cg6vyFAtDxkPOoZ1UlsPjrBRXYAqO6VjLc/vRi+Jthj38pKNPlw==}
     engines: {node: '>=10.9.0'}
 
-  hexo-theme-butterfly@5.3.0:
-    resolution: {integrity: sha512-11TKcXeMymWpYPdhWnEyp3phn8w0zCGH4fr25H0wfVyWKNZLlxERCw/uzNNuJ2IySDNoQa0XGyJM2o26BmoeOA==}
+  hexo-theme-butterfly@5.3.4:
+    resolution: {integrity: sha512-9emW3GeKRrRtBBV4FYDx3Bun7cWD+3PlZb5jcXM7dD+hORA9qwRPk6z7Wm9an3fkYFqIGh3D1q8+oIx9lomhGg==}
 
   hexo-theme-landscape@1.0.0:
     resolution: {integrity: sha512-bWQJWMqQI78wWiJPQZq5pJBH20TM442ShCaHGRetuEgMraxH0OKxB3NTupJzNEkzEk8DV2yrdizkXdKN6i501A==}
@@ -1188,6 +1188,7 @@ packages:
 
   lodash.pick@4.4.0:
     resolution: {integrity: sha512-hXt6Ul/5yWjfklSGvLQl8vM//l3FtyHZeuelpzK6mm99pNvN9yTDruNZPEJZD1oWrqo+izBmB7oUfWgcCX7s4Q==}
+    deprecated: This package is deprecated. Use destructuring assignment syntax instead.
 
   lodash.reduce@4.6.0:
     resolution: {integrity: sha512-6raRe2vxCYBhpBu+B+TtNGUzah+hQjVdu3E17wfusjyrXBka2nBS8OH/gjVZ5PvHOhWmIZTYri09Z6n/QfnNMw==}
@@ -2937,7 +2938,7 @@ snapshots:
     dependencies:
       hexo-util: 1.9.0
 
-  hexo-theme-butterfly@5.3.0:
+  hexo-theme-butterfly@5.3.4:
     dependencies:
       hexo-renderer-pug: 3.0.0
       hexo-renderer-stylus: 3.0.1
